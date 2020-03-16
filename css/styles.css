@@ -86,7 +86,7 @@ a:hover {
 }
 
 .skills {
-  margin: 75px auto 125px;
+  margin: 75px auto 150px;
 }
 
 .skill-row {
@@ -99,23 +99,23 @@ a:hover {
 .android-logo {
   float: left;
   margin-right: 30px;
-  width: 25%;
+  width: 15%;
 }
 
 .flutter-logo {
   float: right;
   margin-left: 30px;
-  width: 25%;
+  width: 15%;
 }
 
 .ios-logo {
   float: left;
   margin-right: 30px;
-  width: 25%;
+  width: 15%;
 }
 
 .contact-me {
-  margin: 50px auto 0;
+  margin: 75px auto 0;
 }
 
 .contact-me .description {
